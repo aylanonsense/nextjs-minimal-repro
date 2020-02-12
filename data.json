@@ -1,0 +1,9 @@
+[
+  {
+    "label": "Great Ramen",
+    "secret": "a_secret_the_client_should_not_know"
+  },
+  {
+    "label": "Okay Pizza"
+  }
+]
